@@ -890,7 +890,7 @@ void main() {
 }
  */
 
-/* 1.48:
+ //Opgave 1.48:
 void printSection1Header() {
     System.out.println("--- SECTION 1 ---");
 }
@@ -929,4 +929,3 @@ void printDocument() {
 void main() {
     printDocument();
 }
- */

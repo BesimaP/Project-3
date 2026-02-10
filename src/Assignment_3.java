@@ -633,7 +633,7 @@ int age = 20;
         System.out.println("Average: " + getAverage());
     } */
 
-    /*Opgave 3.43:
+    //Opgave 3.43:
     int[] data = {12, 45, 23, 67, 34};
 
     int getMax (){
@@ -650,7 +650,7 @@ int age = 20;
         int max = getMax();
         System.out.println("Max: " + max);
     }
-     */
+
 
     /*Opgave 3.44:
     String playerName = "Hero";
@@ -776,7 +776,7 @@ int age = 20;
 
      */
 
-    //Opgave 3.49:
+    /*Opgave 3.49:
     String accountHolder = "Anna";
     double balance = 1500.50;
     double withdrawLimit = 500.0;
@@ -808,4 +808,4 @@ int age = 20;
         System.out.println("Withdraw limit: " + getWithdrawLimit() + " kr");
         System.out.println("Is rich: " + isRich());
         System.out.println("Can withdraw: " + canWithdraw());
-    }
+    } */
