@@ -421,7 +421,7 @@ void main (){
      System.out.println("Count of 2: " + count(data,2));
  }       */
 
- /*Opgave 4.38:
+ //Opgave 4.38:
     boolean contains(int[] numbers, int target) {
         int counter = 0;
         for (int i = 0; i < numbers.length; i++){
@@ -436,9 +436,9 @@ void main (){
         int[] data = {10, 20, 30, 40, 50};
         System.out.println(contains(data, 30));
         System.out.println(contains(data, 99));
-    }     */
+    }
 
-   //Opgave 4.39:
+   /*Opgave 4.39:
    int indexOf(int[] numbers, int target){
       for (int i = 0; i < numbers.length; i++){
           if (numbers [i] == target) {
@@ -446,7 +446,8 @@ void main (){
           }
       }
       return -1;
-   }
+   }    */
+
 
    /*Opgave 4.40:
    int countPositive(int[] numbers) {
